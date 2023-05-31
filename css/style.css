@@ -180,17 +180,17 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 1rem;
+    padding: 1rem 0;
 }
 
 .about .row .info{
-    flex: 1 1 40rem;
+    flex: 1 1 48rem;
     padding: 2rem 1rem;
-    padding-left: 1rem;
+    padding-left: 6rem;
 }
 
 .about .row .info h3{
-    font-size: 0.5rem;
+    font-size: 2rem;
     color: var(--yellow);
     padding: 1rem 0;
     font-weight: normal;
@@ -198,7 +198,7 @@ header .navbar ul li a:hover{
 
 .about .row .info h3 span{
     color: #eee;
-    padding:0 2rem;
+    padding:0 .5rem;
 }
 
 .about .row .counter{
