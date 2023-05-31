@@ -184,13 +184,13 @@ header .navbar ul li a:hover{
 }
 
 .about .row .info{
-    flex: 1 1 48rem;
+    flex: 1 1 40rem;
     padding: 2rem 1rem;
-    padding-left: 4rem;
+    padding-left: 1rem;
 }
 
 .about .row .info h3{
-    font-size: 2rem;
+    font-size: 0.5rem;
     color: var(--yellow);
     padding: 1rem 0;
     font-weight: normal;
@@ -198,7 +198,7 @@ header .navbar ul li a:hover{
 
 .about .row .info h3 span{
     color: #eee;
-    padding:0 5rem;
+    padding:0 2rem;
 }
 
 .about .row .counter{
@@ -296,7 +296,6 @@ header .navbar ul li a:hover{
 }
 
 .experience .box-container .box::before{
-    content: ;
     position: absolute;
     top: 0; left: -1rem;
     height: 2rem;
@@ -324,7 +323,7 @@ header .navbar ul li a:hover{
 .experience .box-container .box p{
     font-size: 1.4rem;
     color: #eee;
-    padding: 1rem 0;
+    padding: 0.3rem 0;
 }
 
 
